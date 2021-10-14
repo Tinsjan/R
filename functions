@@ -1,0 +1,2 @@
+install.packages("vcd") 
+install.packages(c("vcd","ca","ARE"))
